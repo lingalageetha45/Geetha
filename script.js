@@ -87,13 +87,13 @@
 // // 16
 // let b = 9;
 // let b = 18;
-// console.log(b); // output 18
+// console.log(b); // syntex error
 
 // // 17
 // let b = 50;
 // b = 60;
 // let b = 70;
-// console.log(b); // output 70
+// console.log(b); // syntex error
 
 // // 18
 // let b = 2;
@@ -119,12 +119,12 @@
 // // 22
 // const c = 5;
 // c = 15;
-// console.log(c); // output 15
+// console.log(c); // type error
 
 // // 23
 // const c = 1;
 // const c = 2;
-// console.log(c); // output 2
+// console.log(c); // syntex error
 
 // // 24
 // const c = 7;
@@ -132,12 +132,12 @@
 
 // // 25
 // const c = 100;
-// console.log(c); // output 25
+// console.log(c); // output 100
 
 // // 26
 // const c = 50;
 // c = 60;
-// console.log(c); // output 60
+// console.log(c); // type error
 
 // // 27
 // const c = 9;
@@ -146,7 +146,7 @@
 // // 28
 // const c = 20;
 // const c = 30;
-// console.log(c); // output 30
+// console.log(c); // syntex error
 
 // // 29
 // const c = 99;
@@ -155,7 +155,7 @@
 // // 30
 // const c = 11;
 // c = 22;
-// console.log(c); // output 22
+// console.log(c); // type error
 
 
 // // 31
@@ -196,7 +196,7 @@
 // // 37
 // let b = 12;
 // let b = 24;
-// console.log(b); // output 24
+// console.log(b); // syntax error
 
 // // 38
 // let b = 8;
@@ -210,4 +210,4 @@
 // // 40
 // const c = 4;
 // c = 8;
-// Console.log(c); // output 8
+// Console.log(c); // type error
