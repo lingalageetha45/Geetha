@@ -87,13 +87,13 @@
 // // 16
 // let b = 9;
 // let b = 18;
-// console.log(b); // syntex error
+// console.log(b); // output 18
 
 // // 17
 // let b = 50;
 // b = 60;
 // let b = 70;
-// console.log(b); // syntex error
+// console.log(b); // output 70
 
 // // 18
 // let b = 2;
@@ -124,7 +124,7 @@
 // // 23
 // const c = 1;
 // const c = 2;
-// console.log(c); // syntex error
+// console.log(c); // output 2
 
 // // 24
 // const c = 7;
@@ -146,7 +146,7 @@
 // // 28
 // const c = 20;
 // const c = 30;
-// console.log(c); // syntex error
+// console.log(c); // output 30
 
 // // 29
 // const c = 99;
@@ -210,4 +210,4 @@
 // // 40
 // const c = 4;
 // c = 8;
-// Console.log(c); // type error
+// Console.log(c); // output 8
